@@ -17,7 +17,7 @@ Currently supported features:
 
 ## Installation & Usage
 
-Requires Python 3.9+. Install dependencies with [uv](https://github.com/astral-sh/uv):
+Requires Python 3.11+ for the patched Pillow release. Install dependencies with [uv](https://github.com/astral-sh/uv):
 
 ```bash
 uv sync
